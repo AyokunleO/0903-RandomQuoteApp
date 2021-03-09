@@ -1,0 +1,21 @@
+
+.page-bg{
+    background-color: skyblue;
+    height: 100vh;
+    padding: 10% 0;
+}
+
+.quote-box{
+    background-color: #eee;
+    padding: 25px;
+    border-radius: 10px;
+    box-shadow: #000 2px 1px 1px;
+    height: 300px;
+    width: 400px;
+    margin: auto;
+    
+}
+
+.quote-box h3 {
+    font-size: 20px;
+}
